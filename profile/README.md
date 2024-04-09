@@ -1,5 +1,5 @@
 # 欢迎来到ajjdxns studio👋
-> 一个神奇的开源工作室
+> 一个神奇的开源工作室📝
 ## 各种链接
 [![](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.net/a/ajjdxns)
 ### 以下是我们的技术标签
@@ -8,4 +8,5 @@
 欢迎加入我们的[QQ群](https://qm.qq.com/q/3C48LVKKLm)<br>
 本工作室隶属于MCODW<br>
 工作室成员：<br>
-    ![]()
+    [ajjdxns](https://github.com/ajjdxns)[^1]<br>
+[^1]:工作室创始人
